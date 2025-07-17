@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thami-code305
 - 👀 I’m interested in ...Creating progams
-- 🌱 I’m currently learning ...Java
+- 🌱 I’m currently learning ...Javascript, python
 - 💞️ I’m looking to collaborate on ...any platform or team available
 - 📫 How to reach me ...felixmagnifo@gmail.com/ 0783961767
 
